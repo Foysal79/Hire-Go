@@ -4,9 +4,13 @@ HireGo Website
 This project is the **HireGo** website, a platform that helps businesses manage global hiring, employment, and other workforce-related services. The website provides information about HireGo's services, including hiring international talent, managing contractors, converting contractors to employees, and more.
 
 Project Structure
------------------
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   /my-project    ├── image/               # Folder containing image assets    ├── index.html           # Main HTML file    ├── script.js            # JavaScript file for interactivity    ├── style.css            # Custom CSS (if applicable)    ├── tailwind.config.js   # Tailwind CSS configuration (not used with CDN)   `
+/my-project    
+├── image/               # Folder containing image assets    
+├── index.html           # Main HTML file    
+├── script.js            # JavaScript file for interactivity    
+├── style.css            # Custom CSS (if applicable)    
+├── tailwind.config.js   # Tailwind CSS configuration (not used with CDN)   `
 
 ### Key Files:
 
