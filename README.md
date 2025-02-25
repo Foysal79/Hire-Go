@@ -51,22 +51,7 @@ Technologies Used
 *   **JavaScript**: For interactivity and dynamic features (optional).
     
 
-Deployment
-----------
-
-### Deploying on Netlify:
-
-1.  **Create a Netlify account** (if you don't have one).
-    
-2.  **Connect your GitHub repository** to Netlify and select your project.
-    
-3.  **Configure the deployment**:
-    
-    *   **Build command**: Leave it empty (since this is a static site with no build process).
-        
-    *   **Publish directory**: Set to / (root directory).
-        
-4.  **Deploy your site** by clicking [**Deploy Site**](https://sensational-selkie-8530cf.netlify.app/).
+**Deploy Live  site ** by clicking [**Deploy Site**](https://sensational-selkie-8530cf.netlify.app/).
     
 
 For more information on deploying to Netlify, refer to the [Netlify documentation](https://docs.netlify.com/).
