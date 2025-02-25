@@ -10,7 +10,7 @@ The website showcases HireGo's services and solutions, including hiring internat
 Check out the live demo of HireGo here:  
 👉 [Live Demo - HireGo Website](https://sensational-selkie-8530cf.netlify.app/)
 
-![HireGo Preview](./image/hero-image.png)
+
 
 ---
 
@@ -19,11 +19,11 @@ Check out the live demo of HireGo here:
 This is how the project is organized:
 
 /my-project    
- ├── image/                                          # Folder containing image assets    
- ├── index.html                                      # Main HTML file    
- ├── script.js                                       # JavaScript file for interactivity    
- ├── style.css                                       # Custom CSS (if applicable)    
- ├── tailwind.config.js                              # Tailwind CSS configuration (not used with CDN)   `
+ ├── image/                                            
+ ├── index.html                                      
+ ├── script.js                                        
+ ├── style.css                                          
+ ├── tailwind.config.js                             `
 
 
 
